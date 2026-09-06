@@ -1,5 +1,7 @@
 # CosmicComics
 
+**[Live demo](https://cosmiccomics-rosy.vercel.app)** · **[Public repository](https://github.com/nzshumate/cosmiccomics)**
+
 A polished, responsive comic-store demo built with **Nuxt 4, Vue 3, TypeScript, Vite, and SCSS**. Real comic titles and externally hosted official publisher cover art.
 
 ## Features
@@ -60,3 +62,7 @@ Import this repository into Vercel and select the Nuxt framework. The included `
 This is an independent, non-commercial demonstration, not a working retail business. Checkout does not accept payment or place orders. Prices are illustrative, do not represent collectible market valuations, and do not imply stock availability. New releases are a curated 2026 selection, not a real-time feed.
 
 All comic titles, characters, and cover artwork belong to their respective rights holders. Cover images remain externally hosted on official DC and Image Comics domains. Public availability does not make them public domain or grant reuse rights for a commercial shop. See the in-app About page for per-title source links. Google Fonts serves Barlow Condensed and DM Sans under their respective open font licenses. Icons are from Lucide (ISC).
+
+## Verified deployment
+
+The production site passed all eight Playwright checks across desktop and mobile on September 6, 2026. TypeScript checking and the Nuxt production build also passed. External cover availability can change independently of this repository.
